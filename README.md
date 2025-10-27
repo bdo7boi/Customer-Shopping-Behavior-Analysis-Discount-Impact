@@ -1,7 +1,3 @@
-Absolutely — here’s your README rewritten with **proper GitHub Markdown headers**, **bold text**, and **consistent hierarchy** so it looks clean and professional like your Google Merchandise one:
-
----
-
 # Shopper Behavior Analysis — Impact of Discounts on AOV
 
 ## Project Overview
@@ -90,9 +86,7 @@ Each transaction was analyzed to compare **discounted vs. non-discounted orders*
 
 ---
 
-✅ **Tip:** Once you push this to GitHub, your headers (`#`, `##`, `###`) will automatically render as bold section titles—exactly like your Google Merchandise project README.
 
-Would you like me to add a short **"Summary of Insights"** paragraph at the bottom (2–3 lines that sound like what you’d say in a portfolio or interview)? It can make the README end on a strong, professional note.
 
 
 <img width="1786" height="1098" alt="image" src="https://github.com/user-attachments/assets/15f53718-6e32-4871-826c-1aa38e47d2c0" />
