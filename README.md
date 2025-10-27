@@ -12,7 +12,7 @@ It answers a practical question: **Which categories actually see higher order va
 - `analysis/category_discount_impact.py` — executable script (simple, portfolio-ready).
 - `results/category_discount_impact.csv` — final table with AOV, Δ, % lift, p-value, effect size.
 - `results/erosion_categories.png` — categories where discounts reduce AOV.
-
+- `results/top_lift_categories.png` — categories with positive % AOV lift from discount.
 
 # Run (expects data/shopping_behavior_updated.csv unless you pass --input)
 python analysis/category_discount_impact.py --input data/shopping_behavior_updated.csv --outdir results
